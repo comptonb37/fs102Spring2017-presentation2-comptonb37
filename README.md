@@ -9,7 +9,7 @@ You are welcome to use these slides as inspiration for your own presentation. If
 trouble you to star this repository and then acknowledge it in your own presentation slides?
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
-site? Well, you can! Please view [Music Piracy: Why Would You Do It?](https://cdn.rawgit.com/comptonb37/fs102Spring2017-presentation1-comptonb37/0280d3b6/SMPres.html).
+site? Well, you can! Please view [Music Piracy: Why Would You Do It?](https://cdn.rawgit.com/comptonb37/fs102Spring2017-presentation2-comptonb37/1c5721a7/MPPres.html).
 
 ## Installation Instructions
 
